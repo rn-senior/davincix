@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5" height="83" viewBox="0 0 5 83">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <path fill="#FFF" d="M0 0H320V4762H0z" transform="translate(-155 -2457)"/>
+            <g stroke="#111314" stroke-dasharray="4 7" stroke-linecap="round" stroke-linejoin="round">
+                <g>
+                    <g>
+                        <path d="M2.5 1L2.5 82" transform="translate(-155 -2457) translate(14 704) translate(33 1753) translate(108)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

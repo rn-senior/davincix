@@ -1,3 +1,14 @@
+.footer-main__info{
+ margin: auto !important;
+ margin-left: 0 !important;
+ margin-right: 20px !important;
+}
+.social-media{
+    display:flex;align-items: center;margin-right:20px
+}
+.footer-main__bottom{
+    padding-bottom: 0 !important;
+}
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap");@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap");@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)

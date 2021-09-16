@@ -1,4 +1,6 @@
-
+<?php 
+   include("partial/header.php");
+?>
       <main>
          <section class="hero visible-xs ">
             <div class="container-fluid">
@@ -17,7 +19,7 @@
                               <p class="fullscreen__subheading x-sh-3">We help companies build remarkable websites & apps.</p>
                               <div class="fullscreen__cta text-center">
                                  <a class="btn x-btn x-btn--small x-btn--icon-arrow btn--arrow-right tracking-homepage-cta"
-                                    href="work/index.html" title="Go on, check our Work">Start my project</a>
+                                    href="<?=$url?>/work" title="View our work">Start my project</a>
                               </div>
                            </div>
                         </div>
@@ -44,7 +46,7 @@
                                     <h1 class="fullscreen__headline">Need a website build?</h1>
                                     <p class="fullscreen__subheading x-sh-3">We help companies build remarkable websites & apps.</p>
                                     <a class="hero-btn x-btn x-btn--small x-btn--icon-arrow tracking-homepage-cta"
-                                       href="work/index.html" title="Go on, check our Work">Start my project</a>
+                                       href="<?=$url?>/work" title="View our work">Start my project</a>
                                  </div>
                               </div>
                            </div>
@@ -382,42 +384,10 @@
                               </ul>
                            </div>
                         </div>
-                        <div class="project-grid ">
-                           <div class="project ">
-                              <span class="project__link" href="#">
-                                 <picture class="project__picture">
-                                    <img class="project__image" src="media/new/phillip.png"
-                                       srcset="media/new/phillip.png 1x, media/new/phillip.png 2x" alt="Philipé Bisana">
-                                 </picture>
-                                 <h2 class="project__title x-title-1">Philipé Bisana</h2>
-                              </span>
-                              <ul class="project__type-list">
-                                 <li class="project__item">
-                                    <span class="x-sh-4 project__type">Morva created this UI</span>
-                                 </li>
-                              </ul>
-                           </div>
-                        </div>
-                        <div class="project-grid ">
-                           <div class="project ">
-                              <span class="project__link" href="#">
-                                 <picture class="project__picture">
-                                    <img class="project__image" src="media/new/nocode.png"
-                                       srcset="media/new/nocode.png 1x, media/new/nocode.png 2x" alt="No Code">
-                                 </picture>
-                                 <h2 class="project__title x-title-1">No Code</h2>
-                              </span>
-                              <ul class="project__type-list">
-                                 <li class="project__item">
-                                    <span class="x-sh-4 project__type">Morva created this UI</span>
-                                 </li>
-                              </ul>
-                           </div>
-                        </div>
                         <div class="col-sm-6 project-grid project-grid--cta project__curious--large">
                            <div class="project">
                               <h4 class="project__curious">Love these? Perfect. <br>We have more.</h4>
-                              <a class="x-btn x-btn--small x-btn--icon-arrow" href="work/index.html">Go on, check our Work</a>
+                              <a class="x-btn x-btn--small x-btn--icon-arrow" href="<?=$url?>/work">View our work</a>
                            </div>
                         </div>
                      </div>
@@ -454,7 +424,7 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 col-md-12 col-md-offset-0">
                      <div class="section-heading center-grid section-heading--double-line">
-                        <h4 class="section-heading__headline">Looking for extra tips? Sign Up for our email list.</h4>
+                        <h4 class="section-heading__headline">Looking for extra tips? Ask to be invited to our email list.</h4>
                      </div>
                   </div>
                </div>
@@ -463,15 +433,15 @@
                <div class="row">
                   <div class="col-md-10 col-md-offset-1">
                      <div class="growing-stats center-grid center-grid--small visible-xs visible-xs--flex ">
-                        <a class="growing-stats__left" style="color: rgba(0, 156, 166, 0.4)" href="work/rubrik-corporate-website-design/index.html">
+                        <span class="growing-stats__left" style="color: rgba(0, 156, 166, 0.4)">
                            <picture>
                               <img
                                  class="growing-stats__card"
                                  src="media/new/banner1.jpg"
                                  srcset="media/new/banner1.jpg 1x, media/new/banner1.jpg 2x">
                            </picture>
-                        </a>
-                        <a class="growing-stats__right" style="color: rgba(50, 145, 255, 0.4)" href="work/formsite-corporate-website-design-development/index.html">
+                        </span>
+                        <span class="growing-stats__right" style="color: rgba(50, 145, 255, 0.4)">
                            <picture>
                               <img
                                  class="growing-stats__card"
@@ -479,21 +449,21 @@
                                  srcset="media/new/banner2.jpg 1x, media/new/banner2.jpg 2x"
                                  >
                            </picture>
-                        </a>
+                        </span>
                      </div>
                      <div class="growing-stats center-grid center-grid--small hidden-xs ">
-                        <a class="growing-stats__left cardHover" data-color="#009CA6" href="work/rubrik-corporate-website-design/index.html">
+                        <span class="growing-stats__left cardHover" data-color="#009CA6">
                            <img
                               class="growing-stats__card"
                               src="media/new/banner1.jpg">
                            <div class="cardHover-layer" data-img="media/new/banner1.jpg"></div>
-                        </a>
-                        <a class="growing-stats__right cardHover" data-color="#3291FF" href="work/formsite-corporate-website-design-development/index.html">
+                        </span>
+                        <span class="growing-stats__right cardHover" data-color="#3291FF">
                            <img
                               class="growing-stats__card"
                               src="media/new/banner2.jpg">
                            <div class="cardHover-layer" data-img="media/new/banner2.jpg"></div>
-                        </a>
+                        </span>
                      </div>
                   </div>
                </div>
@@ -512,32 +482,32 @@
                         <div class="clients-entries__list">
                            <div class="clients-entries__item-wrapper">
                               <span class="clients-entries__item">
-                                 <h3 class="sr-only" style="width:100%">Site Backups 💽</h3>
+                                 <h3 class="sr-only" style="width:200px">Site Backups 💽</h3>
                               </span>
                            </div>
                            <div class="clients-entries__item-wrapper">
                               <span class="clients-entries__item">
-                                 <h3 class="sr-only" style="width:100%">Bots+Spiders 🤖 + 🕷️</h3>
+                                 <h3 class="sr-only" style="width:200px">Bots+Spiders 🤖 + 🕷️</h3>
                               </span>
                            </div>
                            <div class="clients-entries__item-wrapper">
                               <span class="clients-entries__item">
-                                 <h3 class="sr-only" style="width:100%">Bug Bounties 🐛</h3>
+                                 <h3 class="sr-only" style="width:200px">Bug Bounties 🐛</h3>
                               </span>
                            </div>
                            <div class="clients-entries__item-wrapper">
                               <span class="clients-entries__item">
-                                 <h3 class="sr-only" style="width:100%">Cloud Configuration ☁️</h3>
+                                 <h3 class="sr-only" style="width:200px">Cloud Configuration ☁️</h3>
                               </span>
                            </div>
                            <div class="clients-entries__item-wrapper">
                               <span class="clients-entries__item">
-                                 <h3 class="sr-only" style="width:100%">A/B Test Spilts 🧪</h3>
+                                 <h3 class="sr-only" style="width:200px">A/B Test Spilts 🧪</h3>
                               </span>
                            </div>
                            <div class="clients-entries__item-wrapper">
                               <span class="clients-entries__item">
-                                 <h3 class="sr-only" style="width:100%">Site Virus Removal 🦠</h3>
+                                 <h3 class="sr-only" style="width:200px">Site Virus Removal 🦠</h3>
                               </span>
                            </div>
                         </div>
@@ -592,5 +562,5 @@
          </section>
       </main>
       <?php
-         include("header.php");
+         include("partial/footer.php");
       ?>

@@ -7,42 +7,21 @@
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <meta name="viewport" content="width=device-width,initial-scale=1">
-      <title>Da Vinci X • Digital Product Studio</title>
+      <title>Da Mundi • Leaders in basic to complex site & mobile applications</title>
       <meta name="description" content="We’re a team of strategists, designers, and developers creating top-quality digital products that empower businesses to achieve their full potential.">
       <meta name="keywords"
          content="davincix,design,user,experience,interface,development,software,engineering,mobile app development,mobile app design,dashboard,redesign,analytics,landing,page,screen,ios,android,designers,developers,remote,looking for freelance,looking for design,looking for development,project,projects,new,complex,app design,ui,ux,mobile design,talented,team,digital,product,ios dev,ios development,ios developer,wireframes,web,website">
       <meta property="og:url" content="https://www.damundi.com/">
-      <meta property="og:title" content="Da Vinci X • Digital product design &amp; development company">
-      <meta property="og:description" content="Da Vinci X partners with companies from all over the world to plan, design and build engaging digital products.">
+      <meta property="og:title" content="Da Mundi • Leaders in basic to complex site &amp; mobile applications ">
+      <meta property="og:description" content="Discover how we can make an impact for your company.">
       <meta property="og:image" content="media/social-image-og-homepage2x_vuXQTOd.png">
       <meta property="og:image:width" content="1000">
       <meta property="og:image:height" content="524">
       <meta property="og:type" content="website">
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="@davincix_" />
-      <meta property="twitter:title" content="Da Vinci X • Digital product design &amp; development company">
-      <meta property="twitter:description" content="Da Vinci X partners with companies from all over the world to plan, design and build engaging digital products.">
-      <meta property="twitter:image" content="media/social-image-og-homepage2x_cYODN5Y.png">
-      <link rel="apple-touch-icon" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="57x57" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="60x60" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="72x72" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="76x76" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="100x100" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="114x114" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="120x120" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="144x144" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="152x152" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="apple-touch-icon" sizes="180x180" href=<?=$url."/static/favicons/apple-touch-icon.png"?>>
-      <link rel="icon" type="image/png" sizes="16x16" href=<?=$url."/static/favicons/favicon-16x16.png"?>>
-      <link rel="icon" type="image/png" sizes="32x32" href=<?=$url."/static/favicons/favicon-32x32.png"?>>
+      <meta property="twitter:image" content=<?=$url."/media/social-image-og-homepage2x_cYODN5Y.png"?>>
       <link rel="shortcut icon" type="image/x-icon" href=<?=$url."/static/favicons/favicon.ico"?>>
       <link rel="icon" type="image/x-icon" href=<?=$url."/static/favicons/favicon.ico"?>>
-      <meta name="msapplication-TileColor" content="#121314">
-      <meta name="msapplication-TileImage" content=<?=$url."/ms-icon-144x144.png"?>>
       <meta name="msapplication-config" content=<?=$url."/browserconfig.xml"?>>
-      <meta name="msapplication-TileColor" content="#121314">
-      <meta name="theme-color" content="#ffffff">
       <link type="text/css" href="<?=$url?>/static/bundles/base.a468487c7caa119f3897.css" rel="stylesheet" />
    </head>
    <style>
@@ -72,7 +51,7 @@
                               <div class="navbar__left">
                                  <div class="logo logo--header">
                                     <a class="logo__link" aria-label="Homepage" title="Homepage" href="<?=$url?>">
-                                       <img class="logo__svg" src="<?=$url?>/static/img/logo.png" alt="Da Vinci X logo">
+                                       <img class="logo__svg" src="<?=$url?>/static/img/logo.png" alt="Da Mundi logo">
                                     </a>
                                  </div>
                               </div>
@@ -141,7 +120,7 @@
                               <div class="navbar__left">
                                  <div class="logo logo--header">
                                     <a class="logo__link" aria-label="Homepage" title="Homepage" href="<?=$url?>">
-                                       <img class="logo__svg" src="<?=$url?>/static/img/logo.png" alt="Da Vinci X logo">
+                                       <img class="logo__svg" src="<?=$url?>/static/img/logo.png" alt="Da Mundi logo">
                                     </a>
                                  </div>
                               </div>
@@ -224,6 +203,10 @@
                                  Our Philosophy
                                  <span class="navigation__underline"></span>
                                  </a>
+                              </li>
+                              <li
+                                 class="navigation__item child sibling">
+                                 
                               </li>
                               <li
                                  class="navigation__item child sibling">

@@ -97,7 +97,7 @@
                               </a>
                            </div>
                            <div class="copyright visible-xs visible-sm">
-                              <span class="copyright__year">&copy; 2021 Da Vinci X</span>
+                              <span class="copyright__year">&copy; 2021 Da Mundi</span>
                            </div>
                         </div>
                      </div>
@@ -138,7 +138,7 @@
                </div>
                <div class="col-md-6 visible-md visible-lg">
                   <div class="copyright">
-                     <span class="x-body-6 copyright__year ">&copy; 2021 Da Vinci X</span>
+                     <span class="x-body-6 copyright__year ">&copy; 2021 Da Mundi</span>
                   </div>
                </div>
             </div>

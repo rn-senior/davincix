@@ -1,6 +1,17 @@
 <?php 
    include("partial/header.php");
 ?>
+<style>
+@media only screen and (max-width: 600px) {
+   .growing-stats{
+      display: block !important;
+   }
+   .hidden-xs{
+      display: none !important;
+   }
+}
+
+</style>
       <main>
          <section class="hero visible-xs ">
             <div class="container-fluid">
@@ -19,7 +30,7 @@
                               <p class="fullscreen__subheading x-sh-3">We help companies build remarkable websites & apps.</p>
                               <div class="fullscreen__cta text-center">
                                  <a class="btn x-btn x-btn--small x-btn--icon-arrow btn--arrow-right tracking-homepage-cta"
-                                    href="<?=$url?>/work" title="View our work">Start my project</a>
+                                    href="https://pg38id0bazc.typeform.com/to/WYC3xsk6" title="View our work">Start my project</a>
                               </div>
                            </div>
                         </div>
@@ -394,30 +405,7 @@
                   </div>
                </div>
             </div>
-            <div class="block-inner ">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-sm-8 col-sm-offset-2 col-md-12 col-md-offset-0">
-                        <div class="section-heading center-grid ">
-                           <h4 class="section-heading__headline">Flexible, made to fit process.</h4>
-                           <p class="section-heading__subheading x-sh-4">We&#39;ll keep you up to speed - in every step of the way.</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="full-width-img-wrapper ">
-                  <img
-                     class="full-width-img__image visible-xs"
-                     src="media/process-diagram-mobile.png"
-                     srcset="media/process-diagram-mobile.png 1x, media/process-diagram-mobile2x.png 2x"
-                     alt="Da Vinci X process ">
-                  <img
-                     class="full-width-img__image visible-sm visible-md visible-lg"
-                     src="media/process-diagram-desktop.png"
-                     srcset="media/process-diagram-desktop.png 1x, media/process-diagram-desktop2x.png 2x"
-                     alt="Da Vinci X process ">
-               </div>
-            </div>
+            
          </section>
          <section class="block block--growing block--spaced block--gray">
             <div class="container">
@@ -432,18 +420,20 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-10 col-md-offset-1">
-                     <div class="growing-stats center-grid center-grid--small visible-xs visible-xs--flex ">
-                        <span class="growing-stats__left" style="color: rgba(0, 156, 166, 0.4)">
+                     <div class="growing-stats center-grid center-grid--small visible-xs visible-xs--flex " >
+                        <span class="growing-stats__left" style="color: rgba(0, 156, 166, 0.4);">
                            <picture>
                               <img
+                              style="margin-top: 20px;"
                                  class="growing-stats__card"
                                  src="media/new/banner1.jpg"
                                  srcset="media/new/banner1.jpg 1x, media/new/banner1.jpg 2x">
                            </picture>
                         </span>
-                        <span class="growing-stats__right" style="color: rgba(50, 145, 255, 0.4)">
+                        <span class="growing-stats__right" style="color: rgba(50, 145, 255, 0.4);margin-top: 10px;">
                            <picture>
                               <img
+                              style="margin-top: 20px;"
                                  class="growing-stats__card"
                                  src="media/new/banner2.jpg"
                                  srcset="media/new/banner2.jpg 1x, media/new/banner2.jpg 2x"
@@ -528,7 +518,7 @@
                                     <img class="testimonials-block__quotation-marks" src="static/img/icon-quote-darkgrey.svg"
                                        alt="Quotation marks">
                                     <div>
-                                       <p class="testimonials-block__quote x-body-2">If you get Morva to handle your UI/UX design and Da Vinci X to handle your code you will create something powerful.</p>
+                                       <p class="testimonials-block__quote x-body-2">If you get Morva to handle your UI/UX design and Da Mundi to handle your code you will create something powerful.</p>
                                        <p class="testimonials-block__cite x-body-5">
                                           <span class="testimonials-block__dash">—</span>
                                           Nur Praditya,
@@ -548,7 +538,7 @@
                                        <p class="testimonials-block__cite x-body-5">
                                           <span class="testimonials-block__dash">—</span>
                                           Brian Brewer,
-                                          Partner at Da Vinci X
+                                          Partner at Da Mundi
                                        </p>
                                     </div>
                                  </div>

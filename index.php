@@ -72,7 +72,7 @@
                <div class="container">
                   <div class="row">
                      <div class="col-md-12">
-                        <p class="clients-carousel__header x-body-4">We experts in these frameworks, languages, and databases.</p>
+                        <p class="clients-carousel__header x-body-4">We are experts in these frameworks, languages, and databases.</p>
                         <div class="clients-carousel__inner">
                            <div class="clients-carousel__list">
                               <div class="clients-carousel__item">

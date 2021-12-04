@@ -41,6 +41,14 @@
                               </li>
                               <li
                                  class="navigation__item child sibling">
+                                 <a class="navigation__link x-body-3 " href="<?=$url?>/contact"
+                                    target="_self" aria-label="Contact us" title="Contact us">
+                                 Contact us
+                                 <span class="navigation__underline"></span>
+                                 </a>
+                              </li>
+                              <li
+                                 class="navigation__item child sibling">
                                  
                               </li>
                            </ul>
@@ -124,12 +132,6 @@
                            <a class="navigation__link x-body-6" href="<?=$url?>/cookie-policy" target="_self" aria-label="Cookie Policy"
                               title="Cookie Policy">
                            Cookie Policy
-                           <span class="navigation__underline"></span>
-                           </a>
-                        </li>
-                        <li class="navigation__item">
-                           <a class="navigation__link x-body-6" href="https://pg38id0bazc.typeform.com/to/WYC3xsk6" target="_self" aria-label="Contact Us" title="Contact Us">
-                           Contact us
                            <span class="navigation__underline"></span>
                            </a>
                         </li>

@@ -8,8 +8,7 @@
                         When artistry and engineering combines.
                      </h3>
                      <a class="footer-highlight__btn x-btn x-btn--small x-btn--icon-arrow x-btn--blue"
-                        target="_blank"
-                        href="https://pg38id0bazc.typeform.com/to/WYC3xsk6"
+                        href="<?=$url."/contact"?>"
                         title="Send us an e-mail">
                      Start my project
                      </a>
@@ -56,46 +55,6 @@
                         <ul class="social-media" style="display:flex;align-items: center;margin-right:20px">
                            <li class="social-media__item">
                               <img src="<?=$url?>/media/new/monalisa.png" width="31"  height="105">
-                           </li>
-                           <li class="social-media__item">
-                              <a class="social-media__link" href="#" target="_blank" rel="noopener"
-                                 title="Dribbble">
-                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/dribbble.svg"
-                                 alt="Dribbble">
-                              </a>
-                           </li>
-                           <li class="social-media__item">
-                              <a class="social-media__link" href="#" target="_blank" rel="noopener"
-                                 title="Behance">
-                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/behance.svg" alt="Behance">
-                              </a>
-                           </li>
-                           <li class="social-media__item">
-                              <a class="social-media__link" href="#" target="_blank" rel="noopener"
-                                 title="Instagram">
-                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/instagram.svg"
-                                 alt="Instagram">
-                              </a>
-                           </li>
-                           <li class="social-media__item">
-                              <a class="social-media__link" href="#" target="_blank" rel="noopener"
-                                 title="Facebook">
-                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/facebook.svg"
-                                 alt="Facebook">
-                              </a>
-                           </li>
-                           <li class="social-media__item">
-                              <a class="social-media__link" href="#" target="_blank" rel="noopener"
-                                 title="Twitter">
-                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/twitter.svg" alt="Twitter">
-                              </a>
-                           </li>
-                           <li class="social-media__item">
-                              <a class="social-media__link" href="#" target="_blank" rel="noopener"
-                                 title="LinkedIn">
-                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/linkedin.svg"
-                                 alt="LinkedIn">
-                              </a>
                            </li>
                         </ul>
                         <div class="footer-main__info">

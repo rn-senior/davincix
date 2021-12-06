@@ -2,7 +2,8 @@
 <html lang="en">
    <head>
       <?php
-        $url = "http://localhost/davincix";
+        $url = "https://damundi.com";
+        // $url = "http://localhost/davincix";
       ?>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -104,14 +105,6 @@
                                           </a>
                                        </li>
 
-                                       <li
-                                          class="navigation__item child sibling">
-                                          <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="https://pg38id0bazc.typeform.com/to/WYC3xsk6"
-                                             target="_blank" aria-label="Start my project" title="Start my project">
-                                             Start my project
-                                          <span class="navigation__underline"></span>
-                                          </a>
-                                       </li>
                                     </ul>
                                  </nav>
                               </div>
@@ -184,8 +177,8 @@
                                        </li>
                                        <li
                                           class="navigation__item child sibling">
-                                          <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="https://pg38id0bazc.typeform.com/to/WYC3xsk6"
-                                             target="_blank" aria-label="Start my project" title="Start my project">
+                                          <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="<?=$url."/contact"?>"
+                                              aria-label="Start my project" title="Start my project">
                                           Start my project
                                           <span class="navigation__underline"></span>
                                           </a>
@@ -243,8 +236,8 @@
                               </li>
                               <li
                                  class="navigation__item child sibling">
-                                 <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="https://pg38id0bazc.typeform.com/to/WYC3xsk6"
-                                    target="_blank" aria-label="Start my project" title="Start my project">
+                                 <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="<?=$url."/contact"?>"
+                                     aria-label="Start my project" title="Start my project">
                                  Start my project
                                  <span class="navigation__underline"></span>
                                  </a>
@@ -252,7 +245,7 @@
                            </ul>
                         </nav>
                         <div class="overlay__button">
-                           <a class="x-btn x-btn--small" href="https://pg38id0bazc.typeform.com/to/WYC3xsk6" target="_blank"
+                           <a class="x-btn x-btn--small" href="<?=$url."/contact"?>" 
                               aria-label="Start my project" title="Start my project">
                            Start my project
                            </a>

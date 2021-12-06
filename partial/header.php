@@ -98,13 +98,12 @@
 
                                        <li
                                           class="navigation__item child sibling">
-                                          <a class="navigation__link x-body-3 " href="<?=$url?>/contact"
-                                             target="_self" aria-label="Contact us" title="Contact us">
-                                          Contact us
+                                          <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="<?=$url."/contact"?>"
+                                              aria-label="Start my project" title="Start my project">
+                                             Start my project
                                           <span class="navigation__underline"></span>
                                           </a>
                                        </li>
-
                                     </ul>
                                  </nav>
                               </div>
@@ -169,14 +168,6 @@
 
                                        <li
                                           class="navigation__item child sibling">
-                                          <a class="navigation__link x-body-3 " href="<?=$url?>/contact"
-                                             target="_self" aria-label="Contact us" title="Contact us">
-                                             Contact us
-                                          <span class="navigation__underline"></span>
-                                          </a>
-                                       </li>
-                                       <li
-                                          class="navigation__item child sibling">
                                           <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="<?=$url."/contact"?>"
                                               aria-label="Start my project" title="Start my project">
                                           Start my project
@@ -213,15 +204,6 @@
                                  <a class="navigation__link x-body-3 " href="<?=$url?>/culture"
                                     target="_self" aria-label="Our Philosophy" title="Our Philosophy">
                                  Our Philosophy
-                                 <span class="navigation__underline"></span>
-                                 </a>
-                              </li>
-
-                              <li
-                                 class="navigation__item child sibling">
-                                 <a class="navigation__link x-body-3 " href="<?=$url?>/contact"
-                                    target="_self" aria-label="Contact us" title="Contact us">
-                                 Contact us
                                  <span class="navigation__underline"></span>
                                  </a>
                               </li>

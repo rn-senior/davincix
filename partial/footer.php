@@ -40,14 +40,6 @@
                               </li>
                               <li
                                  class="navigation__item child sibling">
-                                 <a class="navigation__link x-body-3 " href="<?=$url?>/contact"
-                                    target="_self" aria-label="Contact us" title="Contact us">
-                                 Contact us
-                                 <span class="navigation__underline"></span>
-                                 </a>
-                              </li>
-                              <li
-                                 class="navigation__item child sibling">
                                  
                               </li>
                            </ul>

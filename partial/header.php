@@ -208,20 +208,11 @@
                                  </a>
                               </li>
 
-                              <li
-                                 class="navigation__item child sibling">
-                                 
-                              </li>
-                              <li
-                                 class="navigation__item child sibling">
-                                 
-                              </li>
-                              <li
-                                 class="navigation__item child sibling">
-                                 <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="<?=$url."/contact"?>"
-                                     aria-label="Start my project" title="Start my project">
-                                 Start my project
-                                 <span class="navigation__underline"></span>
+                              <li class="navigation__item child sibling"></li>
+                              <li class="navigation__item child sibling"></li>
+                              <li class="navigation__item child sibling">
+                                 <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="<?=$url."/contact"?>" aria-label="Start my project" title="Start my project">
+                                    Start my project<span class="navigation__underline"></span>
                                  </a>
                               </li>
                            </ul>

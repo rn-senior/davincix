@@ -30,7 +30,7 @@
                               <p class="fullscreen__subheading x-sh-3">We help companies build remarkable websites & apps.</p>
                               <div class="fullscreen__cta text-center">
                                  <a class="btn x-btn x-btn--small x-btn--icon-arrow btn--arrow-right tracking-homepage-cta"
-                                    href="https://pg38id0bazc.typeform.com/to/WYC3xsk6" title="View our work">Start my project</a>
+                                    href="<?=$url?>/contact" title="View our work">Start my project</a>
                               </div>
                            </div>
                         </div>

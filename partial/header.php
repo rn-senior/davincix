@@ -15,11 +15,9 @@
       <meta property="og:url" content="https://www.damundi.com/">
       <meta property="og:title" content="Da Mundi • Leaders in basic to complex site &amp; mobile applications ">
       <meta property="og:description" content="Discover how we can make an impact for your company.">
-      <meta property="og:image" content="media/social-image-og-homepage2x_vuXQTOd.png">
       <meta property="og:image:width" content="1000">
       <meta property="og:image:height" content="524">
       <meta property="og:type" content="website">
-      <meta property="twitter:image" content=<?=$url."/media/social-image-og-homepage2x_cYODN5Y.png"?>>
       <link rel="shortcut icon" type="image/x-icon" href=<?=$url."/static/favicons/favicon.ico"?>>
       <link rel="icon" type="image/x-icon" href=<?=$url."/static/favicons/favicon.ico"?>>
       <meta name="msapplication-config" content=<?=$url."/browserconfig.xml"?>>

@@ -15,7 +15,7 @@
 
    /* Style the submit button with a specific background color etc */
    input[type=submit] {
-     background-color: #04AA6D;
+     background-color: #0063ff;
      color: white;
      padding: 12px 20px;
      border: none;
@@ -25,7 +25,7 @@
 
    /* When moving the mouse over the submit button, add a darker green color */
    input[type=submit]:hover {
-     background-color: #45a049;
+     background-color: #0058e3;
    }
 
    /* Add a background color and some padding around the form */
@@ -53,7 +53,7 @@
                         Phone: 248-875-7114
                      </h3>
                      <h3 class="list-with-image__headline x-title-2">
-                        E-mail: contact@damundi.com
+                        E-mail: projects@damundi.com
                      </h3>
                   </div>
 
@@ -66,6 +66,10 @@
 
                          <label for="lname">Email</label>
                          <input type="text" id="email" name="email" required placeholder="Your email..">
+
+
+                           <label for="lname">Phone</label>
+                           <input type="text" id="phone" name="phone" required placeholder="Your phone number..">
 
                          <label for="subject">About Project</label>
                          <textarea id="subject" name="subject" required placeholder="Write about your project" style="height:200px"></textarea>

@@ -2,6 +2,7 @@
 	if($_POST) {
 	    $visitor_name = "";
 	    $visitor_email = "";
+	    $visitor_phone = "";
 	    $visitor_message = "";
 	    $email_body = "<div>";
 	     
@@ -9,6 +10,13 @@
 	        $visitor_name = filter_var($_POST['name'], FILTER_SANITIZE_STRING);
 	        $email_body .= "<div>
 	                           <label><b>Visitor Name:</b></label>&nbsp;<span>".$visitor_name."</span>
+	                        </div>";
+	    }
+
+	    if(isset($_POST['phone'])) {
+	        $visitor_phone = filter_var($_POST['phone'], FILTER_SANITIZE_STRING);
+	        $email_body .= "<div>
+	                           <label><b>Visitor Phone:</b></label>&nbsp;<span>".$visitor_phone."</span>
 	                        </div>";
 	    }
 
@@ -28,7 +36,7 @@
 	                        </div>";
 	    }
 
-	    $recipient = "jin@cloudwinnings.com";
+	    $recipient = "projects@damundi.com";
 	     
 	    $email_body .= "</div>";
 
@@ -36,7 +44,7 @@
 	    .'Content-type: text/html; charset=utf-8' . "\r\n"
 	    .'From: ' . $visitor_email . "\r\n";
 	     
-	    if(mail("pooh199788@gmail.com", "New Project Request", $email_body, $headers)) {
+	    if(mail("projects@damundi.com", "New Project Request", $email_body, $headers)) {
 	        $status = true;
 	    } else {
 	        $status = false;
@@ -51,7 +59,7 @@
                <div class="row" style="margin-top: 50px;">
                   <div class="col-sm-8 col-sm-offset-2 col-md-12 col-md-offset-0">
                      <div class="section-heading center-grid section-heading--large-margin">
-                        <h4 class="section-heading__headline">Contact us</h4>
+                        <h4 class="section-heading__headline">Thank you</h4>
                      </div>
                   </div>
                </div>
@@ -60,7 +68,7 @@
                <div class="row" style="margin-top: 50px;margin-bottom: 50px;">
                   <div class = "col-md-12">
                      <h3 class="list-with-image__headline x-title-2 text-center">
-	        			<p>Thank you for contacting us, <?=$visitor_name?>. You will get a reply within 24 hours.</p>
+	        			<p>We will contact you soon.</p>
                      </h3>
                   </div>
                </div>

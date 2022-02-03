@@ -87,15 +87,7 @@
                                           <span class="navigation__underline"></span>
                                           </a>
                                        </li>
-                                       <li
-                                          class="navigation__item child sibling">
-                                          <a class="navigation__link x-body-3 " href="<?=$url?>/culture"
-                                             target="_self" aria-label="Our Philosophy" title="Our Philosophy">
-                                          Our Philosophy
-                                          <span class="navigation__underline"></span>
-                                          </a>
-                                       </li>
-
+                        
                                        <li
                                           class="navigation__item child sibling">
                                           <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="<?=$url."/contact"?>"
@@ -157,15 +149,7 @@
                                           <span class="navigation__underline"></span>
                                           </a>
                                        </li>
-                                       <li
-                                          class="navigation__item child sibling">
-                                          <a class="navigation__link x-body-3 " href="<?=$url?>/culture"
-                                             target="_self" aria-label="Our Philosophy" title="Our Philosophy">
-                                             Our Philosophy
-                                          <span class="navigation__underline"></span>
-                                          </a>
-                                       </li>
-
+                         
                                        <li
                                           class="navigation__item child sibling">
                                           <a class="navigation__link x-body-3 x-btn x-btn--tiny btn--navigation navigation__link--footer-hide tracking-get-in-touch" href="<?=$url."/contact"?>"
@@ -199,15 +183,8 @@
                                  <span class="navigation__underline"></span>
                                  </a>
                               </li>
-                              <li
-                                 class="navigation__item child sibling">
-                                 <a class="navigation__link x-body-3 " href="<?=$url?>/culture"
-                                    target="_self" aria-label="Our Philosophy" title="Our Philosophy">
-                                 Our Philosophy
-                                 <span class="navigation__underline"></span>
-                                 </a>
-                              </li>
-
+             
+                              <li class="navigation__item child sibling"></li>
                               <li class="navigation__item child sibling"></li>
                               <li class="navigation__item child sibling"></li>
                               <li class="navigation__item child sibling">

@@ -51,7 +51,7 @@
                         </ul>
                         <div class="footer-main__info">
                            <div class="logo logo--footer">
-                              <a class="logo__link" aria-label="Homepage" title="Homepage" href="index.html">
+                              <a class="logo__link" aria-label="Homepage" title="Homepage" href="<?=$url?>">
                                  <img class="logo__svg" src="<?=$url?>/static/img/white_logo.png" alt="DaVinciX logo">
                               </a>
                            </div>

@@ -20,7 +20,6 @@
       <meta property="og:type" content="website">
       <link rel="shortcut icon" type="image/x-icon" href=<?=$url."/static/favicons/favicon.ico"?>>
       <link rel="icon" type="image/x-icon" href=<?=$url."/static/favicons/favicon.ico"?>>
-      <meta name="msapplication-config" content=<?=$url."/browserconfig.xml"?>>
       <link type="text/css" href="<?=$url?>/static/bundles/base.a468487c7caa119f3897.css" rel="stylesheet" />
    </head>
    <style>

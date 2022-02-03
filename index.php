@@ -69,7 +69,7 @@
    </section>
    <section class="block block--no-space">
       <div class="clients-carousel">
-         <div class="container">
+         <div class="container-fluid">
             <div class="row">
                <div class="col-md-12">
                   <p class="clients-carousel__header x-body-4">We are experts in these frameworks, languages, and databases.</p>
@@ -87,22 +87,7 @@
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
-                              <h3 class="sr-only">Squarespace</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">HTML 5</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
                               <h3 class="sr-only">Liquid Code</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">CSS3</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">
@@ -117,57 +102,12 @@
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
-                              <h3 class="sr-only">Angular.js</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">Vue.js</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">Backbone.js</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
                               <h3 class="sr-only">Node.js</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
-                              <h3 class="sr-only">Ember.js</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
                               <h3 class="sr-only">PHP</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">Cake PHP</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">Ruby</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">Ruby on Rails</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">C#</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">.NetCore</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">
@@ -182,37 +122,12 @@
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
-                              <h3 class="sr-only">Bootstrap</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
                               <h3 class="sr-only">jQuery</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
-                              <h3 class="sr-only">Python</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">Django</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
                               <h3 class="sr-only">MongoDB</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">MariaDB</h3>
-                           </span>
-                        </div>
-                        <div class="clients-carousel__item">
-                           <span class="clients-carousel__link">
-                              <h3 class="sr-only">NoSQL</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">

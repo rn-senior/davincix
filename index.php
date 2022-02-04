@@ -10,7 +10,10 @@
       display: none !important;
    }
 }
-
+.team__controller{
+   height: 100%;
+   max-height: 100%;
+}
 </style>
 <main>
    <section class="hero visible-xs ">
@@ -57,7 +60,7 @@
                               <h1 class="fullscreen__headline">Need a website build?</h1>
                               <p class="fullscreen__subheading x-sh-3">We help companies build remarkable websites & apps.</p>
                               <a class="hero-btn x-btn x-btn--small x-btn--icon-arrow tracking-homepage-cta"
-                                 href="<?=$url?>/work" title="View our work">Start my project</a>
+                                 href="<?=$url?>/contact" title="View our work">Start my project</a>
                            </div>
                         </div>
                      </div>
@@ -69,7 +72,7 @@
    </section>
    <section class="block block--no-space">
       <div class="clients-carousel">
-         <div class="container-fluid">
+         <div class="container">
             <div class="row">
                <div class="col-md-12">
                   <p class="clients-carousel__header x-body-4">We are experts in these frameworks, languages, and databases.</p>
@@ -87,7 +90,22 @@
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
+                              <h3 class="sr-only">Squarespace</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">HTML 5</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
                               <h3 class="sr-only">Liquid Code</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">CSS3</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">
@@ -102,12 +120,57 @@
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
+                              <h3 class="sr-only">Angular.js</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">Vue.js</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">Backbone.js</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
                               <h3 class="sr-only">Node.js</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
+                              <h3 class="sr-only">Ember.js</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
                               <h3 class="sr-only">PHP</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">Cake PHP</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">Ruby</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">Ruby on Rails</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">C#</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">.NetCore</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">
@@ -122,7 +185,22 @@
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
+                              <h3 class="sr-only">Bootstrap</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
                               <h3 class="sr-only">jQuery</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">Python</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">Django</h3>
                            </span>
                         </div>
                         <div class="clients-carousel__item">
@@ -132,9 +210,20 @@
                         </div>
                         <div class="clients-carousel__item">
                            <span class="clients-carousel__link">
+                              <h3 class="sr-only">MariaDB</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
+                              <h3 class="sr-only">NoSQL</h3>
+                           </span>
+                        </div>
+                        <div class="clients-carousel__item">
+                           <span class="clients-carousel__link">
                               <h3 class="sr-only">MySQL</h3>
                            </span>
                         </div>
+                     </div>
                      </div>
                   </div>
                </div>
@@ -557,12 +646,12 @@
 
                      </div>
                   </div>
-                  <div class="team__all">
+                 <!--  <div class="team__all">
                      <a class="team__link x-body-3 js-show-all-team" role="button" href="javascript:void(0)"
                         aria-label="Show all members" title="Show all members">
                      Get to know all of us<span class="icon icon--arrow-down-darkgrey team__icon"></span>
                      </a>
-                  </div>
+                  </div> -->
                </div>
             </div>
          </div>
@@ -572,4 +661,4 @@
 <?php
    include("partial/footer.php");
 ?>
-<script type="text/javascript" src="static/bundles/views/culture.a468487c7caa119f3897.js" ></script>
+<!-- <script type="text/javascript" src="static/bundles/views/culture.a468487c7caa119f3897.js"></script> -->

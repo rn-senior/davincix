@@ -12,12 +12,6 @@
       <meta name="description" content="We’re a team of strategists, designers, and developers creating top-quality digital products that empower businesses to achieve their full potential.">
       <meta name="keywords"
          content="davincix,design,user,experience,interface,development,software,engineering,mobile app development,mobile app design,dashboard,redesign,analytics,landing,page,screen,ios,android,designers,developers,remote,looking for freelance,looking for design,looking for development,project,projects,new,complex,app design,ui,ux,mobile design,talented,team,digital,product,ios dev,ios development,ios developer,wireframes,web,website">
-      <meta property="og:url" content="https://www.damundi.com/">
-      <meta property="og:title" content="Da Mundi • Leaders in basic to complex site &amp; mobile applications ">
-      <meta property="og:description" content="Discover how we can make an impact for your company.">
-      <meta property="og:image:width" content="1000">
-      <meta property="og:image:height" content="524">
-      <meta property="og:type" content="website">
       <link rel="shortcut icon" type="image/x-icon" href=<?=$url."/static/favicons/favicon.ico"?>>
       <link rel="icon" type="image/x-icon" href=<?=$url."/static/favicons/favicon.ico"?>>
       <link type="text/css" href="<?=$url?>/static/bundles/base.a468487c7caa119f3897.css" rel="stylesheet" />

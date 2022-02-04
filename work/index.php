@@ -40,7 +40,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">Web App</span>
                                     </li>
                                  </ul>
                               </div>
@@ -57,7 +57,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">NFT Website</span>
                                     </li>
                                  </ul>
                               </div>
@@ -73,7 +73,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">NFT Mobile App</span>
                                     </li>
                                  </ul>
                               </div>
@@ -89,7 +89,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">NFT Website</span>
                                     </li>
                                  </ul>
                               </div>

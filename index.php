@@ -345,7 +345,7 @@
                         </span>
                         <ul class="project__type-list">
                            <li class="project__item">
-                              <span class="x-sh-4 project__type">Morva created this UI</span>
+                              <span class="x-sh-4 project__type">Web App</span>
                            </li>
                         </ul>
                      </div>
@@ -362,7 +362,7 @@
                         </span>
                         <ul class="project__type-list">
                            <li class="project__item">
-                              <span class="x-sh-4 project__type">Morva created this UI</span>
+                              <span class="x-sh-4 project__type">NFT Website</span>
                            </li>
                         </ul>
                      </div>
@@ -378,7 +378,7 @@
                         </span>
                         <ul class="project__type-list">
                            <li class="project__item">
-                              <span class="x-sh-4 project__type">Morva created this UI</span>
+                              <span class="x-sh-4 project__type">NFT Mobile App</span>
                            </li>
                         </ul>
                      </div>
@@ -394,7 +394,7 @@
                         </span>
                         <ul class="project__type-list">
                            <li class="project__item">
-                              <span class="x-sh-4 project__type">Morva created this UI</span>
+                              <span class="x-sh-4 project__type">NFT Website</span>
                            </li>
                         </ul>
                      </div>
@@ -434,10 +434,9 @@
                               <img class="testimonials-block__quotation-marks" src="static/img/icon-quote-darkgrey.svg"
                                  alt="Quotation marks">
                               <div>
-                                 <p class="testimonials-block__quote x-body-2">If you get Morva to handle your UI/UX design and Da Mundi to handle your code you will create something powerful.</p>
+                                 <p class="testimonials-block__quote x-body-2">Da Mundi helped us build a very powerful mobile application that is being used by +130 truck drivers in the United States and Canada.</p>
                                  <p class="testimonials-block__cite x-body-5">
-                                    - Nur Praditya,
-                                    Partner at Morva
+                                    - Pavel P, Ownder of Solid transportation
                                  </p>
                               </div>
                            </div>
@@ -449,10 +448,9 @@
                               <img class="testimonials-block__quotation-marks" src="static/img/icon-quote-darkgrey.svg"
                                  alt="Quotation marks">
                               <div>
-                                 <p class="testimonials-block__quote x-body-2">Great things in business are never done by one person. They're done by a team of highly intelligent people.</p>
+                                 <p class="testimonials-block__quote x-body-2">Perfect project! Great job adding features to our e-commerce site and jumping in last min before launching our updates.</p>
                                  <p class="testimonials-block__cite x-body-5">
-                                    - Brian Brewer,
-                                    Partner at Da Mundi
+                                    - Paul J, Marketing at Christopher-Cloos
                                  </p>
                               </div>
                            </div>

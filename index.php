@@ -328,7 +328,7 @@
                         </span>
                         <ul class="project__type-list">
                            <li class="project__item">
-                              <span class="x-sh-4 project__type">Morva created this UI</span>
+                              <span class="x-sh-4 project__type">NFT Website</span>
                            </li>
                         </ul>
                      </div>
@@ -465,7 +465,7 @@
 
 
    <section class="block block--small-space-bottom section-heading--double-line">
-      <div class="container testimonials">
+      <div class="container">
          <div class="row">
             <div class="col-sm-8 col-sm-offset-2 col-md-12 col-md-offset-0">
                <div class="section-heading center-grid section-heading--medium-margin">

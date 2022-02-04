@@ -2,8 +2,8 @@
 <html lang="en">
    <head>
       <?php
-        $url = "https://damundi.com";
-        // $url = "http://localhost/davincix";
+        // $url = "https://damundi.com";
+        $url = "http://localhost/davincix";
       ?>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">

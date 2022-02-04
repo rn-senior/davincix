@@ -40,6 +40,26 @@
                            <li class="social-media__item">
                               <img src="<?=$url?>/media/new/monalisa.png" width="31"  height="105">
                            </li>
+                          <li class="social-media__item">
+                            <a class="social-media__link" href="https://www.instagram.com/da.mundi/" target="_blank" rel="noopener" title="Instagram">
+                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/instagram.svg" alt="Instagram">
+                            </a>
+                          </li>
+                          <li class="social-media__item">
+                            <a class="social-media__link" href="https://www.facebook.com/DaMundi" target="_blank" rel="noopener" title="Facebook">
+                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/facebook.svg" alt="Facebook">
+                            </a>
+                          </li>
+                          <li class="social-media__item">
+                            <a class="social-media__link" href="https://twitter.com/mundi_da" target="_blank" rel="noopener" title="Twitter">
+                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/twitter.svg" alt="Twitter">
+                            </a>
+                          </li>
+                          <li class="social-media__item">
+                            <a class="social-media__link" href="https://www.linkedin.com/in/da-mundi-6ba093231" target="_blank" rel="noopener" title="LinkedIn">
+                              <img class="social-media__icon" src="<?=$url?>/static/img/social-media/linkedin.svg" alt="LinkedIn">
+                            </a>
+                          </li>
                         </ul>
                         <div class="footer-main__info">
                            <div class="logo logo--footer">

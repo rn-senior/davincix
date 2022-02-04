@@ -267,7 +267,7 @@
                         UI/UX Wireframes
                      </h3>
                      <div class="list-with-icon__info x-body-3">
-                        <p>UI/UX Designer<br />Show Us Sites You Love<br />Pick Your Designer</p>
+                        <p>UX/UI Designer<br />Show Us Sites You Love<br />Pick Your Designer</p>
                      </div>
                   </div>
                </div>
@@ -428,8 +428,8 @@
                   <div class="testimonials-block center-grid ">
                      <ul class="testimonials-block__list">
                         <li class="testimonials-block__item">
-                           <img class="testimonials-block__photo" srcset="media/new/praditya.jpg 1x, media/new/praditya.jpg 2x"
-                              src="media/new/praditya.jpg" alt="Nur Praditya">
+                           <img class="testimonials-block__photo" srcset="media/new/pavel.png 1x, media/new/pavel.png 2x"
+                              src="media/new/pavel.png" alt="Pavel P">
                            <div class="testimonials-block__group">
                               <img class="testimonials-block__quotation-marks" src="static/img/icon-quote-darkgrey.svg"
                                  alt="Quotation marks">
@@ -442,8 +442,8 @@
                            </div>
                         </li>
                         <li class="testimonials-block__item">
-                           <img class="testimonials-block__photo" srcset="media/new/brian.png 1x, media/new/brian.png 2x"
-                              src="media/new/brian.png" alt="Brain Brewer">
+                           <img class="testimonials-block__photo" srcset="media/new/paul.png 1x, media/new/paul.png 2x"
+                              src="media/new/paul.png" alt="Brain Brewer">
                            <div class="testimonials-block__group">
                               <img class="testimonials-block__quotation-marks" src="static/img/icon-quote-darkgrey.svg"
                                  alt="Quotation marks">
@@ -480,7 +480,28 @@
                <div class="team__wrapper">
                   <div class="team__controller">
                      <div class="team__inner">
-                       <div class="member">
+                        
+                        <div class="member">
+                           <picture class="member__photo">
+                              <img src="media/new/team/brian.png" alt="Brian B.">
+                           </picture>
+                           <div>
+                              <h3 class="member__name x-title-3">Brian B.</h3>
+                              <p class="member__title x-body-3">CEO</p>
+                           </div>
+                        </div>
+
+                        <div class="member">
+                           <picture class="member__photo">
+                              <img src="media/new/team/pang.png" alt="Pang G.">
+                           </picture>
+                           <div>
+                              <h3 class="member__name x-title-3">Pang G.</h3>
+                              <p class="member__title x-body-3">Engineering Manager</p>
+                           </div>
+                        </div>
+                        
+                        <div class="member">
                            <picture class="member__photo">
                               <img src="media/new/team/jin.png" alt="Jin M">
                            </picture>
@@ -492,21 +513,11 @@
 
                         <div class="member">
                            <picture class="member__photo">
-                              <img src="media/new/team/brian.png" alt="Brian B.">
+                              <img src="media/new/team/spencer.png" alt="Spencer P.">
                            </picture>
                            <div>
-                              <h3 class="member__name x-title-3">Brian B.</h3>
-                              <p class="member__title x-body-3">Generalist</p>
-                           </div>
-                        </div>
-
-                        <div class="member">
-                           <picture class="member__photo">
-                              <img src="media/new/team/pang.png" alt="Pang G.">
-                           </picture>
-                           <div>
-                              <h3 class="member__name x-title-3">Pang G.</h3>
-                              <p class="member__title x-body-3">Senior Full-Stack Developer</p>
+                              <h3 class="member__name x-title-3">Spencer P.</h3>
+                              <p class="member__title x-body-3">Product Owner</p>
                            </div>
                         </div>
 
@@ -516,7 +527,7 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Liu</h3>
-                              <p class="member__title x-body-3">Senior Full-Stack Developer</p>
+                              <p class="member__title x-body-3">Full-Stack Developer</p>
                            </div>
                         </div>
 
@@ -526,7 +537,7 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Piao C.</h3>
-                              <p class="member__title x-body-3">Wordpress Expert</p>
+                              <p class="member__title x-body-3">Frontend Developer</p>
                            </div>
                         </div>
 
@@ -536,19 +547,21 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Mo S.</h3>
-                              <p class="member__title x-body-3">Project Coordinator</p>
+                              <p class="member__title x-body-3">Team Lead</p>
                            </div>
                         </div>
 
+
                         <div class="member">
                            <picture class="member__photo">
-                              <img src="media/new/team/nur.png" alt="Nur">
+                              <img src="media/new/team/zack.png" alt="Zack P.">
                            </picture>
                            <div>
-                              <h3 class="member__name x-title-3">Nur</h3>
-                              <p class="member__title x-body-3">Expert UI/UX Designer</p>
+                              <h3 class="member__name x-title-3">Zack P.</h3>
+                              <p class="member__title x-body-3">Tech Lead</p>
                            </div>
                         </div>
+
 
                         <div class="member">
                            <picture class="member__photo">
@@ -556,17 +569,16 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Pang X.</h3>
-                              <p class="member__title x-body-3">Expert Full-Stack Developer</p>
+                              <p class="member__title x-body-3">Backend Developer</p>
                            </div>
                         </div>
-
                         <div class="member">
                            <picture class="member__photo">
-                              <img src="media/new/team/bagas.png" alt="Bagas P.">
+                              <img src="media/new/team/nur.png" alt="Nur">
                            </picture>
                            <div>
-                              <h3 class="member__name x-title-3">Bagas P.</h3>
-                              <p class="member__title x-body-3">Expert UI/UX Designer</p>
+                              <h3 class="member__name x-title-3">Nur</h3>
+                              <p class="member__title x-body-3">UX/UI Designer</p>
                            </div>
                         </div>
 
@@ -577,7 +589,7 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Brock G.</h3>
-                              <p class="member__title x-body-3">Project Coordinator</p>
+                              <p class="member__title x-body-3">QA Engineer</p>
                            </div>
                         </div>
 
@@ -587,19 +599,21 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Robby M.</h3>
-                              <p class="member__title x-body-3">Expert Digital Artist</p>
+                              <p class="member__title x-body-3">Business Analyst</p>
                            </div>
                         </div>
 
                         <div class="member">
                            <picture class="member__photo">
-                              <img src="media/new/team/spencer.png" alt="Spencer P.">
+                              <img src="media/new/team/bagas.png" alt="Bagas P.">
                            </picture>
                            <div>
-                              <h3 class="member__name x-title-3">Spencer P.</h3>
-                              <p class="member__title x-body-3">Project Coordinator</p>
+                              <h3 class="member__name x-title-3">Bagas P.</h3>
+                              <p class="member__title x-body-3">UX/UI Designer</p>
                            </div>
                         </div>
+
+
 
                         <div class="member">
                            <picture class="member__photo">
@@ -607,7 +621,7 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Dendra</h3>
-                              <p class="member__title x-body-3">Expert UX/UI Designer</p>
+                              <p class="member__title x-body-3">UX/UI Designer</p>
                            </div>
                         </div>
 
@@ -617,17 +631,7 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Luky E.</h3>
-                              <p class="member__title x-body-3">Expert UX/UI Designer</p>
-                           </div>
-                        </div>
-
-                        <div class="member">
-                           <picture class="member__photo">
-                              <img src="media/new/team/zack.png" alt="Zack P.">
-                           </picture>
-                           <div>
-                              <h3 class="member__name x-title-3">Zack P.</h3>
-                              <p class="member__title x-body-3">Project Coordinator</p>
+                              <p class="member__title x-body-3">UX/UI Designer</p>
                            </div>
                         </div>
 
@@ -637,7 +641,7 @@
                            </picture>
                            <div>
                               <h3 class="member__name x-title-3">Arvin A.</h3>
-                              <p class="member__title x-body-3">Expert UX/UI Designer</p>
+                              <p class="member__title x-body-3">UX/UI Designer</p>
                            </div>
                         </div>
 

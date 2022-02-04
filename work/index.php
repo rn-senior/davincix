@@ -23,7 +23,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">NFT Website</span>
                                     </li>
                                  </ul>
                               </div>
@@ -106,7 +106,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">Website Feature Building</span>
                                     </li>
                                  </ul>
                               </div>
@@ -122,7 +122,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">Website Development</span>
                                     </li>
                                  </ul>
                               </div>
@@ -138,7 +138,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">Website Development</span>
                                     </li>
                                  </ul>
                               </div>
@@ -155,7 +155,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">Crypto Website Build</span>
                                     </li>
                                  </ul>
                               </div>
@@ -172,7 +172,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">NFT Website</span>
                                     </li>
                                  </ul>
                               </div>
@@ -190,7 +190,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">App Build</span>
                                     </li>
                                  </ul>
                               </div>
@@ -207,7 +207,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">Crypto App Build</span>
                                     </li>
                                  </ul>
                               </div>
@@ -224,7 +224,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">Website Build</span>
                                     </li>
                                  </ul>
                               </div>
@@ -241,7 +241,7 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">App Development</span>
                                     </li>
                                  </ul>
                               </div>
@@ -258,11 +258,251 @@
                                  </span>
                                  <ul class="project__type-list">
                                     <li class="project__item">
-                                       <span class="x-sh-4 project__type">Morva created this UI</span>
+                                       <span class="x-sh-4 project__type">Website Build</span>
                                     </li>
                                  </ul>
                               </div>
                            </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/taskz.png"
+                                          srcset="../media/new/taskz.png 1x, ../media/new/taskz.png 2x" alt="taskz">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">Taskz Manager</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Mobile Feature Build</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/codeforce.png"
+                                          srcset="../media/new/codeforce.png 1x, ../media/new/codeforce.png 2x" alt="codeforce">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">CodeForce</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Website Build</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/PMP.png"
+                                          srcset="../media/new/PMP.png 1x, ../media/new/PMP.png 2x" alt="PMP">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">PMP</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Web Application</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/mobile-ui-ux.png"
+                                          srcset="../media/new/mobile-ui-ux.png 1x, ../media/new/mobile-ui-ux.png 2x" alt="Mobile UI/UX">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">Mobile UI/UX</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Mock Design</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/dotmusic.png"
+                                          srcset="../media/new/dotmusic.png 1x, ../media/new/dotmusic.png 2x" alt="DotMusic">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">DotMusic</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Music Web App</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/financenow.png"
+                                          srcset="../media/new/financenow.png 1x, ../media/new/financenow.png 2x" alt="FinanceNow">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">Finance Now</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Mobile App</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/smooth-dash.png"
+                                          srcset="../media/new/smooth-dash.png 1x, ../media/new/smooth-dash.png 2x" alt="Smooth-Dash">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">Smooth Dash</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Internal Application</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/foodting.png"
+                                          srcset="../media/new/foodting.png 1x, ../media/new/foodting.png 2x" alt="Food&Tings">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">Food&Tings</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Mobile App</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/nftgriffin.png"
+                                          srcset="../media/new/nftgriffin.png 1x, ../media/new/nftgriffin.png 2x" alt="NFT Griffin">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">NFT Griffin</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">NFT Mobile App</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/fastpower.png"
+                                          srcset="../media/new/fastpower.png 1x, ../media/new/fastpower.png 2x" alt="FastPower">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">FastPower</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Website Development</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/thedesigner.png"
+                                          srcset="../media/new/thedesigner.png 1x, ../media/new/thedesigner.png 2x" alt="The Designer">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">The Designer</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Website Build</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/newpop.png"
+                                          srcset="../media/new/newpop.png 1x, ../media/new/newpop.png 2x" alt="NewPop">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">NewPop</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Website Build</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+                           <div class="project-grid ">
+                              <div class="project ">
+                                 <span class="project__link" href="#">
+                                    <picture class="project__picture">
+                                       <img class="project__image" src="../media/new/learningdash.png"
+                                          srcset="../media/new/learningdash.png 1x, ../media/new/learningdash.png 2x" alt="Learning Dash">
+                                    </picture>
+                                    <h2 class="project__title x-title-1">Learning Dash</h2>
+                                 </span>
+                                 <ul class="project__type-list">
+                                    <li class="project__item">
+                                       <span class="x-sh-4 project__type">Website Build</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+
+
+
                         </div>
                      </div>
                   </div>

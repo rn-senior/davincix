@@ -24,11 +24,10 @@
                            <ul class="navigation__list">
                               <li
                                  class="navigation__item child sibling">
-                                 <a class="navigation__link x-body-3 " href="<?=$url?>/work"
-                                    target="_self" aria-label="Projects" title="Projects">
-                                 Projects
+                                 <span class="navigation__link x-body-3 ">
+                                 We’d love to get to know more about your project. 
                                  <span class="navigation__underline"></span>
-                                 </a>
+                                 </span>
                               </li>
                               <li
                                  class="navigation__item child sibling">

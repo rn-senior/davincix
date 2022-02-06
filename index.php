@@ -10,9 +10,12 @@
       display: none !important;
    }
 }
-.team__controller{
-   height: 100%;
-   max-height: 100%;
+.team__all_controller{
+   height: 100% !important;
+   max-height: 100% !important;
+}
+.dis-none{
+   display: none !important;
 }
 </style>
 <main>
@@ -436,7 +439,7 @@
                               <div>
                                  <p class="testimonials-block__quote x-body-2">Da Mundi helped us build a very powerful mobile application that is being used by +130 truck drivers in the United States and Canada.</p>
                                  <p class="testimonials-block__cite x-body-5">
-                                    - Pavel P, Ownder of Solid transportation
+                                    - Pavel P, Owner of Solid transportation
                                  </p>
                               </div>
                            </div>
@@ -478,7 +481,7 @@
          <div class="container">
             <div class="row">
                <div class="team__wrapper">
-                  <div class="team__controller">
+                  <div class="team__controller" id = "team__controller">
                      <div class="team__inner">
                         
                         <div class="member">
@@ -648,19 +651,29 @@
 
                      </div>
                   </div>
-                 <!--  <div class="team__all">
+                  <div class="team__all" id = "team__all">
                      <a class="team__link x-body-3 js-show-all-team" role="button" href="javascript:void(0)"
                         aria-label="Show all members" title="Show all members">
                      Get to know all of us<span class="icon icon--arrow-down-darkgrey team__icon"></span>
                      </a>
-                  </div> -->
+                  </div>
                </div>
             </div>
          </div>
       </div>
    </section>
 </main>
+<!-- <script type="text/javascript" src="<?=$url?>/static/bundles/views/culture.a468487c7caa119f3897.js"></script> -->
 <?php
    include("partial/footer.php");
 ?>
-<!-- <script type="text/javascript" src="static/bundles/views/culture.a468487c7caa119f3897.js"></script> -->
+<script>
+   document.querySelector(".js-show-all-team").addEventListener("click", function() {
+      var element = document.getElementById("team__all");
+      element.classList.add("dis-none");
+
+      var element = document.getElementById("team__controller");
+      element.classList.add("team__all_controller");
+
+   })
+</script>

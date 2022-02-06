@@ -55,6 +55,15 @@
                      <h3 class="list-with-image__headline x-title-2">
                         E-mail: projects@damundi.com
                      </h3>
+                     <br>
+                     <br>
+                     <br>
+                     <span class="x-sh-4 project__type" style="padding-right:20px;">
+                        Da Mundi creates work with a refined aesthetic and radical sense of position. Simplicity, elegance and acute attention to detail are the guiding values. Every project is treated as a unique expression rather than the vehicle for a rigid aesthetic. 
+                        <br>
+                        <br>
+                        The team brings together diverse skills in complex software development, database architecture and UX/UI design to overcome the constraints of the physical web environments and deliver thoughtful, project-specific creations. 
+                     </span>
                   </div>
 
                   <div class = "col-md-6">

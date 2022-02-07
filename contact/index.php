@@ -50,9 +50,6 @@
                <div class="row" style="margin-top: 50px;margin-bottom: 50px;">
                   <div class = "col-md-6">
                      <h3 class="list-with-image__headline x-title-2">
-                        Phone: 248-875-7114
-                     </h3>
-                     <h3 class="list-with-image__headline x-title-2">
                         E-mail: projects@damundi.com
                      </h3>
                      <br>

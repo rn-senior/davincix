@@ -514,15 +514,6 @@
                            </div>
                         </div>
 
-                        <div class="member">
-                           <picture class="member__photo">
-                              <img src="media/new/team/spencer.png" alt="Spencer P.">
-                           </picture>
-                           <div>
-                              <h3 class="member__name x-title-3">Spencer P.</h3>
-                              <p class="member__title x-body-3">Product Owner</p>
-                           </div>
-                        </div>
 
                         <div class="member">
                            <picture class="member__photo">
@@ -544,6 +535,17 @@
                            </div>
                         </div>
 
+
+                        <div class="member">
+                           <picture class="member__photo">
+                              <img src="media/new/team/pangx.png" alt="Pang X.">
+                           </picture>
+                           <div>
+                              <h3 class="member__name x-title-3">Pang X.</h3>
+                              <p class="member__title x-body-3">Backend Developer</p>
+                           </div>
+                        </div>
+                        
                         <div class="member">
                            <picture class="member__photo">
                               <img src="media/new/team/mo.png" alt="Mo S.">
@@ -565,16 +567,16 @@
                            </div>
                         </div>
 
-
                         <div class="member">
                            <picture class="member__photo">
-                              <img src="media/new/team/pangx.png" alt="Pang X.">
+                              <img src="media/new/team/spencer.png" alt="Spencer P.">
                            </picture>
                            <div>
-                              <h3 class="member__name x-title-3">Pang X.</h3>
-                              <p class="member__title x-body-3">Backend Developer</p>
+                              <h3 class="member__name x-title-3">Spencer P.</h3>
+                              <p class="member__title x-body-3">Business Analyst</p>
                            </div>
                         </div>
+
                         <div class="member">
                            <picture class="member__photo">
                               <img src="media/new/team/nur.png" alt="Nur">
